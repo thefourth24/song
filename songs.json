@@ -1,0 +1,41 @@
+{
+
+    "song1" : {
+       "song" : "No Suprises",
+       "artist" : "Radiohead",
+       "genre" : "Alternative Rock",
+       "link" : "https://www.youtube.com/watch?v=u5CVsCnxyXg",
+       "id": "1"
+    },
+
+"song2" : {
+    "song" : "Creep",
+    "artist" : "Radiohead",
+    "genre" : "Alternative Rock",
+    "link" : "https://www.youtube.com/watch?v=XFkzRNyygfk",
+    "id": "2"
+},
+
+"song3" : {
+    "song" : "Champaigne Supernova",
+    "artist" : "Oasis",
+    "genre" : "Pop Rock Hard Rock Psychedelic Rock",
+    "link" : "https://www.youtube.com/watch?v=tI-5uv4wryI",
+    "id": "3"
+},
+"song4" : {
+    "song" : "Don't Look back in Anger",
+    "artist" : "Oasis",
+    "genre" : "Pop Rock Hard Rock Psychedelic Rock",
+    "link" : "https://www.youtube.com/watch?v=tI-5uv4wryI",
+    "id": "4"
+ },
+
+ "song5" : {
+    "song" : "I Don't Love You",
+    "artist" : "My Chemical Romance",
+    "genre" : "Alternative Rock Emo pop post hardcore punk rock hard rock",
+    "link" : "https://www.youtube.com/watch?v=pyi0ZfuIIvo",
+    "id": "5"
+ }
+}
